@@ -2,65 +2,45 @@
 
 # Black.X
 
-**Apps. Tools. Stories. Privacy first.**
+**Independent developer & maker**
 
-Independent developer building fast private software for Android, Windows, web, and Unity.  
-No ads. No tracking. No accounts you do not need.
+I build private software people actually use — Android, Windows, web, and Unity.  
+Fast. Offline when it matters. No ads. No tracking.
 
 <br/>
 
 [Black.X Works](https://blackx-works.dappling.network/)
-·
-[Portfolio](https://blackx.dappling.network/)
-·
+&nbsp;·&nbsp;
+[Liner](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)
+&nbsp;·&nbsp;
 [VStories](https://vstories.dappling.network/)
-·
-[Buy me a coffee](https://buymeacoffee.com/Omv1)
+&nbsp;·&nbsp;
+[Coffee](https://buymeacoffee.com/Omv1)
 
 </div>
 
----
+<br/>
 
-### Apps
+### Now
 
-| Project | What it is |
-|:--------|:-----------|
-| **[Liner](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)** | Android local music player with synced lyrics. Offline-first. No ads. No tracking. |
+**[Liner](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)** — local Android music player with synced lyrics.  
+Your files stay on your phone. No account. No streaming. No ads.
 
 ### Tools
 
-| Project | What it does |
-|:--------|:-------------|
-| **[PCfix](https://github.com/DARKSIDE957/PCfix)** | Windows toolkit to optimize, clean, repair, and diagnose |
-| **[Vtool](https://github.com/DARKSIDE957/Vtool)** | Free VRChat avatar pre-upload checker and fixer for Unity |
-| **[Pngup](https://github.com/DARKSIDE957/Pngup)** | Pin photos on your Windows desktop — always on top, click-through |
-| **[USBFix](https://github.com/DARKSIDE957/USBFix)** | Repair stubborn USB sticks when Disk Management and Format fail |
+- **[PCfix](https://github.com/DARKSIDE957/PCfix)** — optimize, clean, repair, and diagnose Windows
+- **[Vtool](https://github.com/DARKSIDE957/Vtool)** — VRChat avatar checks and safe fixes in Unity
+- **[Pngup](https://github.com/DARKSIDE957/Pngup)** — pin a photo on your desktop and work behind it
+- **[USBFix](https://github.com/DARKSIDE957/USBFix)** — repair stubborn USB sticks when Format fails
 
-### Websites
+### Stories
 
-| Project | What it is |
-|:--------|:-----------|
-| **[VStories](https://vstories.dappling.network/)** | Dark fiction by VIRUS — complete novels, free to read |
-| **[Black.X](https://blackx.dappling.network/)** | Developer portfolio |
-| **[Black.X Works](https://blackx-works.dappling.network/)** | Hub for apps, tools, and stories |
+**[VStories](https://vstories.dappling.network/)** — dark fiction by VIRUS. Complete novels. Free to read.
 
----
-
-### How I build
-
-- Privacy first — no analytics farms, no ad networks
-- Offline-first where it matters
-- Useful tools people can actually download and use
-- Clear shipping over hype
-
-### Stack I reach for
-
-`Android` · `C#` · `Python` · `TypeScript` · `Tauri` · `React` · `Unity` · `Windows`
-
----
+<br/>
 
 <div align="center">
 
-<sub>Built by DARKSIDE957 · © Black.X</sub>
+<sub>Privacy first · Built by DARKSIDE957</sub>
 
 </div>
