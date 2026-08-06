@@ -11,7 +11,7 @@ Private software for Android, Windows, web, and Unity.
 
 <br/>
 
-<a href="https://blackx-works.dappling.network/"><img src="https://img.shields.io/badge/Black.X_Works-111111?style=flat-square" alt="Black.X Works"/></a>
+<a href="https://blackxworks.dappling.network/"><img src="https://img.shields.io/badge/Black.X_Works-111111?style=flat-square" alt="Black.X Works"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.linermusicplayer.app"><img src="https://img.shields.io/badge/Liner-E11D48?style=flat-square&logo=googleplay&logoColor=white" alt="Liner"/></a>
 <a href="https://github.com/DARKSIDE957/PCfix"><img src="https://img.shields.io/badge/PCfix-10B981?style=flat-square" alt="PCfix"/></a>
 <a href="https://github.com/DARKSIDE957/Vtool"><img src="https://img.shields.io/badge/Vtool-A855F7?style=flat-square" alt="Vtool"/></a>
