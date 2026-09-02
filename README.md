@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" width="420" alt="Black.X"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1000&color=E11D48&center=true&vCenter=true&width=520&height=32&lines=Local+music.+Synced+lyrics.;No+ads.+No+tracking.;Android+%7C+Windows+%7C+Web+%7C+Unity" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1000&color=E11D48&center=true&vCenter=true&width=520&height=32&lines=Local+music.+Synced+lyrics.;VRChat+toolkit+for+Windows.;No+ads.+No+tracking.;Android+%7C+Windows+%7C+Web+%7C+Unity" alt="typing"/>
 
 <br/>
 
@@ -13,6 +13,7 @@ Private software for Android, Windows, web, and Unity.
 
 <a href="https://blackxworks.dappling.network/"><img src="https://img.shields.io/badge/Black.X_Works-111111?style=flat-square" alt="Black.X Works"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.linermusicplayer.app"><img src="https://img.shields.io/badge/Liner-E11D48?style=flat-square&logo=googleplay&logoColor=white" alt="Liner"/></a>
+<a href="https://github.com/DARKSIDE957/VRCFX"><img src="https://img.shields.io/badge/VRCFX-06B6D4?style=flat-square" alt="VRCFX"/></a>
 <a href="https://github.com/DARKSIDE957/PCfix"><img src="https://img.shields.io/badge/PCfix-10B981?style=flat-square" alt="PCfix"/></a>
 <a href="https://github.com/DARKSIDE957/Vtool"><img src="https://img.shields.io/badge/Vtool-A855F7?style=flat-square" alt="Vtool"/></a>
 <a href="https://github.com/DARKSIDE957/Pngup"><img src="https://img.shields.io/badge/Pngup-3B82F6?style=flat-square" alt="Pngup"/></a>
