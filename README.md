@@ -19,7 +19,7 @@ Private software for Android, Windows, web, and Unity.
 <a href="https://github.com/DARKSIDE957/Pngup"><img src="https://img.shields.io/badge/Pngup-3B82F6?style=flat-square" alt="Pngup"/></a>
 <a href="https://github.com/DARKSIDE957/USBFix"><img src="https://img.shields.io/badge/USBFix-F59E0B?style=flat-square" alt="USBFix"/></a>
 <a href="https://vstories.dappling.network/"><img src="https://img.shields.io/badge/VStories-9F1239?style=flat-square" alt="VStories"/></a>
-<a href="https://buymeacoffee.com/Omv1"><img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Coffee"/></a>
+<a href="https://ko-fi.com/c/4e4397f93e"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
 
 <br/><br/>
 
